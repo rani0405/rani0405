@@ -16,9 +16,8 @@
 ---
 
 ## 📂 Projects
-- [[[Sample Selenium Project](#)](https://github.com/rani0405/QuantumLeap-E-Commerce-Test-Automation-Framework) ](https://github.com/rani0405/QuantumLeap-E-Commerce-Test-Automation-Framework)    
-- [[Sample Cypress Project](#)  ](https://github.com/rani0405/Rakuten-cypress)
-
+- 🔗 [QuantumLeap E-Commerce Test Automation Framework (Selenium + TestNG)](https://github.com/ra04/QuantumLeap-E-Commerce-Test-Automation-Framework)  
+- 🔗 [Rakuten Cypress Automation (E2E Testing)](https://github.com/ra04/Rakuten-cypress)  
 
 ---
 
@@ -30,4 +29,4 @@
 ---
 
 ## 🌐 Connect With Me
-- rani-nikhade-4494832b3 
+- 💼 [LinkedIn](rani-nikhade-4494832b3 )  
