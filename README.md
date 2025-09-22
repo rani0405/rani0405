@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Projects
--[QuantumLeap — E-Commerce Test Automation Framework](https://github.com/rani0405/QuantumLeap-E-Commerce-Test-Automation-Framework.git)
+- [QuantumLeap — E-Commerce Test Automation Framework](https://github.com/rani0405/QuantumLeap-E-Commerce-Test-Automation-Framework.git)
   Selenium + TestNG based framework automating core e-commerce flows (Login, Search, Cart, Checkout). Includes test reports & screenshots.
 
 - [Rakuten — Cypress E2E Tests](https://github.com/rani0405/Rakuten-cypress.git)
