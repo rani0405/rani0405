@@ -17,10 +17,14 @@
 
 ## 📂 Projects
 - [QuantumLeap — E-Commerce Test Automation Framework](https://github.com/rani0405/QuantumLeap-E-Commerce-Test-Automation-Framework.git)
-  Selenium + TestNG based framework automating core e-commerce flows (Login, Search, Cart, Checkout). Includes test reports & screenshots.
+  Automation framework for e-commerce workflows using **Selenium (Java)**, **TestNG**, and **Page Object Model (POM)**.  
+  Covers login, product search, cart, and checkout with test reports & screenshots.  
+  **Tags:** `selenium` `java` `testng` `automation` `pom`
 
 - [Rakuten — Cypress E2E Tests](https://github.com/rani0405/Rakuten-cypress.git)
-  Cypress E2E automation for main user journeys — POM structure, reusable commands, and CI-friendly setup.
+  End-to-end automation testing of the Rakuten website using **Cypress (JavaScript)**.  
+  Includes login, search, product details, and cart flows with a reusable **Page Object Model (POM)** structure.*  
+  **Tags:** `cypress` `javascript` `e2e-testing` `automation` `qa`
 
 ---
 
